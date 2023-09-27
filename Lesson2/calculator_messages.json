@@ -1,0 +1,16 @@
+{
+  "en":
+  {
+    "welcome":"Welcome to the calculator!",
+    "another":"Do you want to run another calculation? Enter 'yes' or 'no'",
+    "invalidNum":"That is not a valid number! Try again.",
+    "invalidResponse":"Please enter a valid response. Enter 'yes' or 'no'",
+    "invalidOperation":"Invalid operation! Try again.",
+    "result":"The result is:",
+    "firstNum":"What is the first number?",
+    "secondNum":"What is the second number?",
+    "whatOperation":"What operation would you like to perform?\n=> 1) Add\n=> 2) Subtract\n=> 3) Multiply\n=> 4) Divide"
+  },
+  "es":
+  {}
+}  
